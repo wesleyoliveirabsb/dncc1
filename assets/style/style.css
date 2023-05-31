@@ -103,3 +103,8 @@ button{
     font-size: 30px;
     background-color: #C07212;
 }
+button:hover{
+    cursor: pointer;
+    background-color: #70430c;
+    box-shadow: inset -2px 1px 13px 4px black;
+}
